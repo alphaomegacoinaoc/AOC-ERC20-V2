@@ -1,0 +1,10 @@
+/.idea/
+
+# Dependency directories
+node_modules/
+
+secret.json
+build
+yarn.lock
+.env
+
